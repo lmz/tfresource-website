@@ -76,7 +76,9 @@ export default {
         this.pageLookup[category].push(page)
       }
 
-      if (page.frontmatter.categories.length < 2) {
+      // Uncategorized pages are those with no categories or those with a single category: Needs Review
+      if ((page.frontmatter.categories.length < 1) ||
+          ((page.frontmatter.categories.length == 1) && (page.frontmatter.categories[0] == "Needs Review")) ) {
         this.pageLookup['Uncategorized'].push(page)
       }
     }
