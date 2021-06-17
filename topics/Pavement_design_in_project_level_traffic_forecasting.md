@@ -1,7 +1,8 @@
 ---
-title: "Pavement design in project-level traffic forecasting"
+title: "Pavement Design in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Guidelines for ESALs Computations
@@ -32,4 +33,3 @@ The Mechanistic-Empirical Pavement Design Guide (MEPDG) also requires forecasts 
 
 References
 ----------
-

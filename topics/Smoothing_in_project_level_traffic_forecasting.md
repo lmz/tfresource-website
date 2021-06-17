@@ -1,7 +1,8 @@
 ---
-title: "Smoothing in project-level traffic forecasting"
+title: "Smoothing in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Objective
@@ -45,4 +46,3 @@ References
 ----------
 
 NCHRP Report 765.
-

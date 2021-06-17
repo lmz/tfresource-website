@@ -1,7 +1,8 @@
 ---
-title: "Trend models in project-level traffic forecasting"
+title: "Trend Models in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Objective
@@ -58,4 +59,3 @@ References
 ----------
 
 NCHRP Report 765.
-

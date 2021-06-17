@@ -1,7 +1,8 @@
 ---
-title: "Subarea focusing in project-level traffic forecasting"
+title: "Subarea Focusing in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Objective
@@ -95,4 +96,3 @@ References
 ----------
 
 NCHRP Report 765 and ITE Trip Generation, NCHRP Report 365, NCHRP Report 716.
-

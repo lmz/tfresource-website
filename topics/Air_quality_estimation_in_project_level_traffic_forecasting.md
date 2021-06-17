@@ -1,7 +1,8 @@
 ---
-title: "Air quality estimation in project-level traffic forecasting"
+title: "Air Quality Estimation in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Some states and locales are in attainment of the national ambient air quality standards (NAAQS) from the Clean Air Act, so there is little need for air quality analysis for highway projects.
@@ -10,10 +11,8 @@ Otherwise, for guidance on estimating GHG emissions from HPMS data or from trave
 
 Considerable advice on this subject may also be found in the report from NCHRP Project 25-25/Task 96, “Quick Reference Guide For Transportation Planners/Engineers:  Generating Traffic & Activity Data for Project-Level Air Quality:Analyses”.
 
-References
-----------
+## References
 
-FHWA, “Handbook for Estimating Transportation Greenhouse Gas Emissions for Integration into the Planning Process”
+- FHWA, “Handbook for Estimating Transportation Greenhouse Gas Emissions for Integration into the Planning Process”
 
-“Quick Reference Guide For Transportation Planners/Engineers:  Generating Traffic & Activity Data for Project-Level Air Quality:Analyses”  Prepared for AASHTO Committee on Environment and Sustainability. WSP USA, Inc. and Cambridge Systematics, Inc.  July 2018. See  http://onlinepubs.trb.org/onlinepubs/nchrp/docs/NCHRP25-25(96)_QRG.pdf
-
+- “Quick Reference Guide For Transportation Planners/Engineers:  Generating Traffic & Activity Data for Project-Level Air Quality:Analyses”  Prepared for AASHTO Committee on Environment and Sustainability. WSP USA, Inc. and Cambridge Systematics, Inc.  July 2018. See  [http://onlinepubs.trb.org/onlinepubs/nchrp/docs/NCHRP25-25(96)_QRG.pdf](http://onlinepubs.trb.org/onlinepubs/nchrp/docs/NCHRP25-25(96)_QRG.pdf)

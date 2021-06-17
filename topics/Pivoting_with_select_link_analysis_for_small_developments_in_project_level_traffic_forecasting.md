@@ -1,7 +1,8 @@
 ---
-title: "Pivoting with select link analysis for small developments in project-level traffic forecasting"
+title: "Pivoting with Select Link Analysis for Small Developments in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Objective
@@ -65,4 +66,3 @@ References
 NCHRP Report 765 and NCHRP Report 255
 
 Guidebook on Statewide Travel Forecasting Models, 1999, p. 75.
-

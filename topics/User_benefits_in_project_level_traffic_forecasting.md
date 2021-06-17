@@ -1,7 +1,8 @@
 ---
-title: "User benefits in project-level traffic forecasting"
+title: "User Benefits in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Background
@@ -24,4 +25,3 @@ Using net VHT and net VMT for user benefits assumes that the total number of tri
 
 References
 ----------
-

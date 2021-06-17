@@ -1,7 +1,8 @@
 ---
-title: "Traffic dynamics in project-level traffic forecasting"
+title: "Traffic Dynamics in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Background
@@ -27,4 +28,3 @@ It is most convenient, but not essential, that the DTA be integrated with the tr
 
 References
 ----------
-

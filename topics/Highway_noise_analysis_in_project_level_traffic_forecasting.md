@@ -1,7 +1,8 @@
 ---
-title: "Highway noise analysis in project-level traffic forecasting"
+title: "Highway Noise Analysis in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Background
@@ -18,4 +19,3 @@ Noise standards are in units of LEQ in FHWA’s Noise Abatement Criteria. Certai
 
 References
 ----------
-

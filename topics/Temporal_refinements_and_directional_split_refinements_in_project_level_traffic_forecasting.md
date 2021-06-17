@@ -1,7 +1,8 @@
 ---
-title: "Temporal refinements and directional split refinements in project-level traffic forecasting"
+title: "Temporal Refinements and Directional Split Refinements in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Objective
@@ -70,4 +71,3 @@ NCHRP Report 716 and NCHRP Report 765
 ITE Trip Generation Manual
 FHWA, Traffic Monitoring Guide
 Quick Response Freight Manual, First Edition
-

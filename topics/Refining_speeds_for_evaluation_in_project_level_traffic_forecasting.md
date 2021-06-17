@@ -1,7 +1,8 @@
 ---
-title: "Refining speeds for evaluation in project-level traffic forecasting"
+title: "Refining Speeds for Evaluation in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Guidelines
@@ -11,4 +12,3 @@ Some post-processors used for evaluation require speeds at different times of da
 
 References
 ----------
-

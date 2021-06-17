@@ -1,7 +1,8 @@
 ---
-title: "Windowing with OD table estimation from traffic counts in project-level traffic forecasting"
+title: "Windowing with OD Table Estimation from Traffic Counts in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Objective
@@ -64,4 +65,3 @@ References
 ----------
 
 NCHRP Report 765 (in particular, see the windowing case study in Chapter 11).
-

@@ -1,7 +1,8 @@
 ---
-title: Multi-resolution models in project-level traffic forecasting"
+title: Multi-Resolution Models in Project-Level Traffic Forecasting
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Objective

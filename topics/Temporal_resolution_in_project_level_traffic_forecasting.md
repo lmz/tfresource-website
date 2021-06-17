@@ -1,7 +1,8 @@
 ---
-title: "Temporal resolution in project-level traffic forecasting"
+title: "Temporal Resolution in Project-Level Traffic Forecasting"
 categories:
   - Needs Review
+  - Project Level Traffic Forecasting
 ---
 
 Guidelines
@@ -11,4 +12,3 @@ Forecasts may be made for 24-hours, a peak hour, a multihour peak or some other 
 
 References
 ==========
-
