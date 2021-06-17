@@ -9,9 +9,6 @@ Travel demand has been found to be generally inelastic with respect to built env
 
 ------------------------------------------------------------------------
 
-<references>
-
-------------------------------------------------------------------------
+## References
 
 [^1]: Ewing, Reid, and Robert Cervero. "Travel and the Built Environment. A Meta-Analysis." Journal of the American Planning Association. 76.3 (2010): pp. 265-294. Print
-

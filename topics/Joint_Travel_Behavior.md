@@ -30,9 +30,8 @@ A household day pattern model was developed for the South California Association
 
 ------------------------------------------------------------------------
 
-<references>
+## References
 
 [^1]: Bradley, M. and P. Vovsha. (2005). A model for joint choice of daily activity pattern types of household members. Transportation, 32(5): 545–571. Amsterdam: Springer
 
 [^2]: Chandra R. Bhat, Konstadinos G. Goulias, Ram M. Pendyala. Rajesh Paleti, Raghuprasad Sidharthan, Laura Schmitt, Hsi-Hwa Hu.Transportation ,September 2013, Volume 40, Issue 5, pp 1063-1086
-
